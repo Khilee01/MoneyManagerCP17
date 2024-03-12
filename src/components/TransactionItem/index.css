@@ -1,0 +1,19 @@
+.transaction {
+  display: flex;
+  width: 36vw;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+p {
+  text-align: left;
+  color: #334155;
+}
+
+.delete {
+  background-color: transparent;
+  border: none;
+}
+.deleteImg {
+  height: 30px;
+  width: 20px;
+}
